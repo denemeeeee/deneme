@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyCard</string>
+    <string name="textview">TextView</string>
+    <string name="oyunuma_hosgeldiniz">Oyunuma Hosgeldiniz.</string>
+    <string name="basla">BAŞLA</string>
+    <string name="kullaniciAdi">Kullanıcı Adınızı Giriniz:</string>
+    <string name="tiklanilanKartSayisi">Tıklanılan kart sayısı:</string>
+    <string name="oyuncuAdi">TextView</string>
+    <string name="TiklanilanKartSkoru">TextView</string>
+    <string name="tiklanmaSayisi">__</string>
+    <string name="oyuncuadi">oyuncuadi</string>
+    <string name="tiklanilan_kart_sayisi">Tiklanilan Kart Sayisi:</string>
+</resources>
